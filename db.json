@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye Angus",
+      "precio": "400",
+      "id": 4
+    },
+    {
+      "nombre": "Limon",
+      "precio": 100,
+      "id": 5
+    }
+  ]
+}
